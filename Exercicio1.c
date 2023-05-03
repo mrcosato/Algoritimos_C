@@ -2,6 +2,6 @@
 #include<conio.h>
 
 void main(){
-	printf("Ola eh! Mundo");
+	printf("Ola Mundo");
 	system("pause");	
 }
