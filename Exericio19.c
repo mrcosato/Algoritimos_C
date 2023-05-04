@@ -14,7 +14,7 @@ risco. A tabela abaixo fornece as categorias em função da faixa etária e
 void main(){
      int IDADE, RISCO;
      printf("Informe a idade: ");
-     scanf("%i", IDADE);
+     scanf("%i", &IDADE);
      if(IDADE > 16 || IDADE < 21){
           printf("Infome o Grau de risco desejado opcoes - (1) ou (2) ou (3)");
           scanf("%i", RISCO);
